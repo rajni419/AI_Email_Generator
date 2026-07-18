@@ -99,18 +99,15 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-Add screenshots of the application here.
+### 🏠 Home Page
 
-Example:
+![Home Page](assets/home.png)
 
-- Home Page
-- Generated Email
-- Sidebar
-- Download Feature
+### 📧 Generated Email
 
----
+![Generated Email](assets/output.jpeg)
 
 ## 🔮 Future Improvements
 
