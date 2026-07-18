@@ -103,11 +103,13 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-![Home Page](assets/home.png)
+![Generated Email](assets/output.jpeg)
+
 
 ### 📧 Generated Email
 
-![Generated Email](assets/output.jpeg)
+![Home Page](assets/home.png)
+
 
 ## 🔮 Future Improvements
 
